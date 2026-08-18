@@ -113,7 +113,7 @@ saksham-reading-library/
 
 ## Tech
 
-Plain HTML, CSS, and vanilla JavaScript. No frameworks, no build step, no backend. Fonts via CDN: Poppins, Atkinson Hyperlegible, and Lexend from Google Fonts; OpenDyslexic from cdnfonts.
+Plain HTML, CSS, and vanilla JavaScript. No frameworks, no build step, no backend. Fonts via CDN: Nunito, Atkinson Hyperlegible, and Lexend from Google Fonts; OpenDyslexic from cdnfonts.
 
 Notable computational pieces:
 - CSS custom properties as a runtime design-token system, switched by `data-` attributes on `<body>`.
